@@ -1,0 +1,13 @@
+# NOTER – Steg 6
+
+I detta steg valde jag att ångra commitet som lade till varianten med extra kryddor.
+
+Commit som ångrades:
+b0153b4 – "feat: lägg till variant med extra kryddor"
+
+Jag använde `git revert` eftersom det är ett säkert sätt att ta bort en ändring utan att skriva om historiken. Revert skapar ett nytt commit som tar bort effekten av det gamla, vilket gör att historiken förblir tydlig och lätt att följa.
+
+Sammanfattning:
+- Jag ångrade commit b0153b4.
+- Jag använde `git revert`.
+- Historiken är intakt och ändringen är borttagen.
