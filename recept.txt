@@ -1,5 +1,6 @@
 PANNBIFF I GRÄDDSÅS
-6 stycken
+===================
+## 6 stycken
 
 1 dl ströbröd
 1 dl vispgrädde
@@ -12,6 +13,7 @@ salt
 svartpeppar
 
 Gräddsås
+
 5 dl vispgrädde (eller 3 dl vispgrädde + 2 dl mjölk)
 ca 1 msk vetemjöl
 1 msk kalvfond
@@ -21,7 +23,7 @@ ev. salt & lite peppar
 
 Servera gärna med hemgjort potatismos – recept klicka här!
 
-GÖR SÅ HÄR
+* GÖR SÅ HÄR
 
 1. Blanda ströbröd, vispgrädde, ägg, dijonsenap, kalvfond och riven lök i en bunke. Rör om ordentligt och låt blandningen stå i några minuter.
 
