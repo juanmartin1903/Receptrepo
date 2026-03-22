@@ -11,3 +11,16 @@ Sammanfattning:
 - Jag ångrade commit b0153b4.
 - Jag använde `git revert`.
 - Historiken är intakt och ändringen är borttagen.
+
+# NOTER – Steg 7
+
+I detta steg testade jag `git cherry-pick` på commit c8a551e ("feat: lägg till källan").
+
+Cherry-picket blev tomt eftersom ändringen redan fanns i den aktuella versionen av filen. Git meddelade att commitet inte innehöll några nya ändringar att applicera.
+
+Jag använde därför `git cherry-pick --skip` för att fortsätta utan att skapa ett tomt commit.
+
+Sammanfattning:
+- Jag försökte cherry-picka commit c8a551e.
+- Commitet var redan inkluderat i historiken.
+- Jag använde `git cherry-pick --skip` för att gå vidare.
