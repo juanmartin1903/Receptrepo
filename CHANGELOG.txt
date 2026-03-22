@@ -1,0 +1,16 @@
+# Changelog
+
+Alla betydande ändringar i detta projekt dokumenteras i denna fil.
+
+## v1.1.1 - 2026-03-22
+### Fixed
+- förbättra utsende med ASCII
+
+## v1.1.0 - 2026-03-22
+### Added
+- lägg till källan
+
+## v1.0.0 - 2026-03-22
+### Added
+- första stabila versionen av receptet
+- lägg till den första recept
